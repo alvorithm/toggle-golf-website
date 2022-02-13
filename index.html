@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head><link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/8.0.1/normalize.css">
+    <title>Golf Class</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+    <link rel="stylesheet" href="index.css" />
+  </head>
+  <body>
+    <!--Onclick event is triggered by calling the setTheme function from index.js file. Themes can be toggld by parsing in the dark and light arguments
+    in the setTheme parameters placeholder-->
+    <section>
+      <div class="btn-group btn-group-toggle" data-toggle="buttons">
+        <label class="btn btn-secondary active">
+          <input type="button" class="btn btn-primary" value="Dark Theme" onclick="setTheme('dark')" autocomplete="off" checked>
+        </label>
+        <label class="btn btn-secondary">
+          <input type="button" class="btn btn-warning" value="Light Theme" onclick="setTheme('light')" autocomplete="off">
+        </label>
+      </div>
+      <h1>Let's Learn Golf!!</h1>
+      It's going to be worth a <em>shot!</em>
+      <h2>Golf Scene</h2>
+      <!-- 
+        The animation shows that the golf ball is suppose to go up higher when you use a wedge becuase it is loftier.
+        Volleyball emoji used as "golf ball". No golf ball emoji found. Unordered list has no numbering. Ordered lists use numbering.
+       -->
+      <ul class="grid">
+        <li>⛳</li>
+        <li>🏌🏽</li>
+        <li class="excited">🏐</li>
+        <li>🏐</li>
+        <li>🕳️</li>
+        <li>🐦 birdie!!😊 🏆</li>        
+      </ul>
+      <h3>Directions</h3>
+
+      <ol>
+        <li>
+          Address golf ball.
+        </li>
+        <li>
+          Make sure stance is parallel to target line from club face.
+        </li>
+        <li>Take a practice swing before officially hitting golf ball.</li>
+        <li>
+          Get ready to hit. Slow back swing and accelerate through target line.
+        </li>
+        <li>Nice shot!👏 Now Continue practising</li>
+      </ol>
+    </section>
+    <!--js files added into script tag at the bottom of the web html page (close to the closing body tag) 
+      to allow the style and presentation of the web app to take first priority upon rendering.-->
+    <script src="index.js"></script>
+  </body>
+</html>
