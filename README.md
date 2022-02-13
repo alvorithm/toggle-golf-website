@@ -1,4 +1,4 @@
-# title(){return this.options.title||this.options.name}
+# GOLF TOGGLE WEBSITE
 
 ## Overview
 
