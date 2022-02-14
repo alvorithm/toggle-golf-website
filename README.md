@@ -1,5 +1,3 @@
-# GOLF TOGGLE WEBSITE
-
 ## Overview
 
 This is a basic website to illustrate hover animations and how to toggle between dark and light themes using Bootstrap buttons
@@ -14,3 +12,5 @@ Volleyball emoji used as "golf ball". No golf ball emoji found. Unordered list h
 
 js files added into script tag at the bottom of the web html page (close to the closing body tag) 
 to allow the style and presentation of the web app to take first priority upon rendering.
+
+Created package.json file using npm init command. Then configured the settings to adjust to a corresponding url for the actual homepage.

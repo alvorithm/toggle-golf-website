@@ -1,0 +1,19 @@
+{
+  "name": "toggle-golf-website",
+  "version": "1.0.0",
+  "description": "A basic website making use of theme buttons to toggle between dark and light themes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alvorithm/toggle-golf-website.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alvorithm/toggle-golf-website/issues"
+  },
+  "homepage": "https://github.com/alvorithm/toggle-golf-website#readme"
+}
