@@ -1,3 +1,4 @@
+# Golf Toggle Website
 ## Overview
 
 This is a basic website to illustrate hover animations and how to toggle between dark and light themes using Bootstrap buttons
