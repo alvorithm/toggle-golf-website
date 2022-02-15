@@ -5,7 +5,7 @@
 
 [link](https://alvorithm.github.io/toggle-golf-website/){:target="_blank"}
 
-%md <a href="https://alvorithm.github.io/toggle-golf-website/" target="_blank">Toggle :golf:Golf:golfing: Website</a>
+%md<a href="https://alvorithm.github.io/toggle-golf-website/" target="_blank">Toggle :golf:Golf:golfing: Website</a>
 
 ## Overview
 
