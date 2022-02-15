@@ -2,7 +2,7 @@
 ![image](https://user-images.githubusercontent.com/49029145/153993235-0268b6ee-c371-449e-9782-44ff5d139461.png)
 
 # Golf Toggle Website
-[link}(https://alvorithm.github.io/toggle-golf-website/){:target="_blank"}
+[https://alvorithm.github.io/toggle-golf-website/}(https://alvorithm.github.io/toggle-golf-website/){:target="_blank"}
 
 ## Overview
 
