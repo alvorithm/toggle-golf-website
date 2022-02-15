@@ -19,7 +19,7 @@ Bootstrap
 
 ## Learnings
 
-Onclick event is triggered by calling the setTheme function from index.js file. Themes can be toggld by parsing in the dark and light arguments
+Onclick event is triggered by calling the setTheme function from index.js file. Themes can be toggled by parsing in the dark and light arguments
 in the setTheme parameters placeholder.
 
 The animation shows that the golf ball is suppose to go up higher when you use a wedge becuase it is loftier.
