@@ -7,6 +7,16 @@ Link 🔗 to :golf:golf:golfing: website here: https://alvorithm.github.io/toggl
 
 This is a basic website to illustrate hover animations and how to toggle between dark and light themes using Bootstrap buttons
 
+## Web technologies:
+
+Html
+
+CSS and CSS Grid
+
+Javascript
+
+Bootstrap
+
 ## Learnings
 
 Onclick event is triggered by calling the setTheme function from index.js file. Themes can be toggld by parsing in the dark and light arguments
