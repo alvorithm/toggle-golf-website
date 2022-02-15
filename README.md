@@ -7,6 +7,8 @@
 
 %md<a href="https://alvorithm.github.io/toggle-golf-website/" target="_blank">Toggle :golf:Golf:golfing: Website</a>
 
+[text-to-highlight](https://alvorithm.github.io/toggle-golf-website/){:target="\_blank"}
+
 ## Overview
 
 This is a basic website to illustrate hover animations and how to toggle between dark and light themes using Bootstrap buttons
