@@ -2,7 +2,8 @@
 ![image](https://user-images.githubusercontent.com/49029145/153993235-0268b6ee-c371-449e-9782-44ff5d139461.png)
 
 # Golf Toggle Website
-Link 🔗 to :golf:golf:golfing: website here: https://alvorithm.github.io/toggle-golf-website/
+Link 🔗 to :golf:golf:golfing: website here:  <a href="https://alvorithm.github.io/toggle-golf-website/" target="_blank">Toggle Golf Website!</a>
+
 ## Overview
 
 This is a basic website to illustrate hover animations and how to toggle between dark and light themes using Bootstrap buttons
